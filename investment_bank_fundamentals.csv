@@ -1,0 +1,11 @@
+Ticker,Bank_Name,Market_Cap_Billion_USD,Revenue_Billion_USD,Net_Income_Billion_USD,PE_Ratio,Employees,Founded_Year,Headquarters_City,Headquarters_State
+HLI,Houlihan Lokey,$10.57,$2.39,$0.40,26.43,"2,702",1972,Los Angeles,California
+EVR,Evercore,$12.08,$3.86,$0.59,20.47,"2,570",1995,New York,New York
+JEF,Jefferies Financial Group,$10.60,$7.34,$0.63,16.82,"7,787",1962,New York,New York
+SF,Stifel Financial,$12.00,$5.53,$0.80,15.00,"9,000",1890,St. Louis,Missouri
+GS,Goldman Sachs,$294.04,$58.28,$17.18,17.11,"47,400",1869,New York,New York
+MS,Morgan Stanley,$283.00,$70.60,$16.90,16.75,"83,000",1935,New York,New York
+JPM,JPMorgan Chase,$802.00,$182.43,$60.00,13.37,"3,18,000",1799,New York,New York
+LAZ,Lazard,$5.90,$3.10,$0.24,24.58,"3,309",1848,New York,New York
+RJF,Raymond James Financial,$28.33,$14.07,$2.13,13.30,"19,500",1962,St. Petersburg,Florida
+MC,Moelis & Company,$5.28,$1.47,$0.26,20.31,"1,300",2007,New York,New York
