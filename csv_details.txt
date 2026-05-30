@@ -1,0 +1,36 @@
+CSV 1: investment_bank_stock_prices.csv
+        Date
+        Ticker
+        Bank_Name
+        Open_Price
+        High_Price
+        Low_Price
+        Close_Price
+        Volume
+
+CSV 2: investment_bank_fundamentals.csv
+        Ticker
+        Bank_Name
+        Market_Cap_Billion_USD
+        Revenue_Billion_USD
+        Net_Income_Billion_USD
+        PE_Ratio
+        Employees
+        Founded_Year
+        Headquarters
+
+CSV 3: investment_bank_master_lookup.csv
+        Ticker
+        Bank_Name
+        Bank_Type
+        Country
+
+Calculated Columns
+Daily_Return
+Monthly_Return
+Annual_Return
+Volatility
+Annualized_Volatility
+Sharpe_Ratio
+Market_Cap_Rank
+Revenue_Rank
