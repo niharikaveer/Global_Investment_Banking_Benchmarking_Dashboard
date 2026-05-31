@@ -27,22 +27,21 @@ CSV 3: investment_bank_master_lookup.csv
 
 Measures
 
-Financial Size
-        Total Market Cap
-        Total Revenue
-        Total Net Income
-        Average PE Ratio
-
-Profitability
-        Net Income Margin
+        Financial Size
+                Total Market Cap
+                Total Revenue
+                Total Net Income
+        Profitability
+                Net Income Margin
+                Average Net Income Margin
+                Average P/E Ratio
         Returns
-        Daily Return
-        Monthly Return
-        Annual Return
-        CAGR
-
-Risk
-        Volatility
-        Annualized Volatility
-        Sharpe Ratio
-        Risk vs Return Ratio
+                Daily Return
+                Annualized Return
+                CAGR
+        Risk
+                Volatility
+                Annualized Volatility
+        Risk-Adjusted Performance
+                Sharpe Ratio
+                Risk Return Ratio
