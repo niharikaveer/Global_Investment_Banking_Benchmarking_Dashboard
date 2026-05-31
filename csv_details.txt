@@ -25,12 +25,24 @@ CSV 3: investment_bank_master_lookup.csv
         Bank_Type
         Country
 
-Calculated Columns
-Daily_Return
-Monthly_Return
-Annual_Return
-Volatility
-Annualized_Volatility
-Sharpe_Ratio
-Market_Cap_Rank
-Revenue_Rank
+Measures
+
+Financial Size
+        Total Market Cap
+        Total Revenue
+        Total Net Income
+        Average PE Ratio
+
+Profitability
+        Net Income Margin
+        Returns
+        Daily Return
+        Monthly Return
+        Annual Return
+        CAGR
+
+Risk
+        Volatility
+        Annualized Volatility
+        Sharpe Ratio
+        Risk vs Return Ratio
