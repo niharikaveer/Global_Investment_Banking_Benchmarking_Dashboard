@@ -144,7 +144,7 @@ Provides a high-level summary of company fundamentals and valuation metrics.
 
 ### Dashboard Preview
 
-![Executive Overview](Dashboard_images/executive_overview.png)
+![Executive Overview](Dashboard_images/excecutive_overview.png)
 
 ---
 
