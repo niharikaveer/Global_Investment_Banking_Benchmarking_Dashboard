@@ -16,26 +16,26 @@ The analysis covers a five-year period (2021–2025) and enables users to compar
 
 ## Dashboard Objectives
 
-* Analyze the financial health of investment banks using key fundamental metrics.
-* Evaluate stock performance across multiple years.
-* Compare risk-adjusted returns using financial ratios.
-* Identify high-performing banks based on return and volatility metrics.
-* Provide an interactive analytical platform for investment comparison.
+- Analyze the financial health of investment banks using key fundamental metrics.
+- Evaluate stock performance across multiple years.
+- Compare risk-adjusted returns using financial ratios.
+- Identify high-performing banks based on return and volatility metrics.
+- Provide an interactive analytical platform for investment comparison.
 
 ---
 
 ## Banks Included
 
-* Goldman Sachs (GS)
-* JPMorgan Chase (JPM)
-* Morgan Stanley (MS)
-* Evercore (EVR)
-* Lazard (LAZ)
-* Houlihan Lokey (HLI)
-* Jefferies Financial Group (JEF)
-* Raymond James Financial (RJF)
-* Moelis & Company (MC)
-* Stifel Financial (SF)
+- Goldman Sachs (GS)
+- JPMorgan Chase (JPM)
+- Morgan Stanley (MS)
+- Evercore (EVR)
+- Lazard (LAZ)
+- Houlihan Lokey (HLI)
+- Jefferies Financial Group (JEF)
+- Raymond James Financial (RJF)
+- Moelis & Company (MC)
+- Stifel Financial (SF)
 
 ---
 
@@ -83,20 +83,20 @@ Dedicated table containing all DAX calculations used throughout the dashboard.
 
 ### Measures Included
 
-* Annualized Return
-* Annualized Volatility
-* Sharpe Ratio
-* Risk Return Ratio
-* CAGR
-* Total Revenue
-* Total Net Income
-* Total Market Capitalization
-* Average P/E Ratio
-* Average Net Income Margin
-* Maximum Return
-* Minimum Return
-* Beginning Price
-* Ending Price
+- Annualized Return
+- Annualized Volatility
+- Sharpe Ratio
+- Risk Return Ratio
+- CAGR
+- Total Revenue
+- Total Net Income
+- Total Market Capitalization
+- Average P/E Ratio
+- Average Net Income Margin
+- Maximum Return
+- Minimum Return
+- Beginning Price
+- Ending Price
 
 ---
 
@@ -106,10 +106,10 @@ The model is designed around a centralized lookup table (**Investment Bank Maste
 
 This structure ensures:
 
-* Consistent filtering across report pages
-* Efficient DAX calculations
-* Reduced data redundancy
-* Improved report performance
+- Consistent filtering across report pages
+- Efficient DAX calculations
+- Reduced data redundancy
+- Improved report performance
 
 ### Model View
 
@@ -125,22 +125,22 @@ Provides a high-level summary of company fundamentals and valuation metrics.
 
 ### KPIs
 
-* Total Market Capitalization
-* Total Revenue
-* Total Net Income
-* Average P/E Ratio
+- Total Market Capitalization
+- Total Revenue
+- Total Net Income
+- Average P/E Ratio
 
 ### Visuals
 
-* Market Capitalization by Bank
-* Revenue by Bank
-* Net Income by Bank
-* P/E Ratio by Ticker
+- Market Capitalization by Bank
+- Revenue by Bank
+- Net Income by Bank
+- P/E Ratio by Ticker
 
 ### Filters
 
-* Bank Name
-* Bank Type
+- Bank Name
+- Bank Type
 
 ### Dashboard Preview
 
@@ -154,27 +154,27 @@ Analyzes risk-adjusted performance across investment banks.
 
 ### KPIs
 
-* Annualized Return
-* Annualized Volatility
-* Sharpe Ratio
-* Risk Return Ratio
+- Annualized Return
+- Annualized Volatility
+- Sharpe Ratio
+- Risk Return Ratio
 
 ### Visuals
 
-* Sharpe Ratio by Ticker
-* Risk Return Ratio by Ticker
-* Risk-Return Profile Scatter Plot
-* Performance Comparison Table
+- Sharpe Ratio by Ticker
+- Risk Return Ratio by Ticker
+- Risk-Return Profile Scatter Plot
+- Performance Comparison Table
 
 ### Features
 
-* Market Capitalization Bubble Sizing
-* Interactive Filtering
-* Risk vs Return Comparison
+- Market Capitalization Bubble Sizing
+- Interactive Filtering
+- Risk vs Return Comparison
 
 ### Dashboard Preview
 
-![Risk and Return Analysis](Dashboard_images/risk_and_return.png)
+![Risk & Return Analysis](Dashboard_images/risk_and_return.png)
 
 ---
 
@@ -184,28 +184,28 @@ Provides insights into historical stock price movements and long-term growth tre
 
 ### KPIs
 
-* Annualized Return
-* CAGR
-* Maximum Return
-* Minimum Return
+- Annualized Return
+- CAGR
+- Maximum Return
+- Minimum Return
 
 ### Visuals
 
-* Close Price Trend by Year
-* CAGR by Ticker
-* Annualized Return by Ticker
-* Monthly Closing Price Trend
+- Close Price Trend by Year
+- CAGR by Ticker
+- Annualized Return by Ticker
+- Monthly Closing Price Trend
 
 ### Filters
 
-* Ticker
-* Quarter
-* Month
-* Year
+- Ticker
+- Quarter
+- Month
+- Year
 
 ### Dashboard Preview
 
-![Stock Trends](Dashboard_images/stock_trends.png)
+![Stock Performance & Trading Trends](Dashboard_images/stock_trends.png)
 
 ---
 
@@ -221,42 +221,42 @@ Custom tooltip pages were created to provide additional insights when interactin
 
 ## Price Analysis Tooltip
 
-![Price Tooltip](Dashboard_images/prices_tooltip.png)
+![Price Analysis Tooltip](Dashboard_images/prices_tooltip.png)
 
 ---
 
 ## Tooltip Interaction Examples
 
-![Tooltip Hover 1](Dashboard_images/tooltip_hovering_1.png)
+![Tooltip Hovering Example 1](Dashboard_images/tooltip_hovering_1.png)
 
-![Tooltip Hover 2](Dashboard_images/tooltip_hovering_2.png)
+![Tooltip Hovering Example 2](Dashboard_images/tooltip_hovering_2.png)
 
 ---
 
 # DAX Measures Implemented
 
-### Return Metrics
+## Return Metrics
 
-* Annualized Return
-* Average Return
-* CAGR
-* Maximum Return
-* Minimum Return
+- Annualized Return
+- Average Return
+- CAGR
+- Maximum Return
+- Minimum Return
 
-### Risk Metrics
+## Risk Metrics
 
-* Volatility
-* Annualized Volatility
-* Sharpe Ratio
-* Risk Return Ratio
+- Volatility
+- Annualized Volatility
+- Sharpe Ratio
+- Risk Return Ratio
 
-### Fundamental Metrics
+## Fundamental Metrics
 
-* Total Revenue
-* Total Net Income
-* Total Market Capitalization
-* Average P/E Ratio
-* Average Net Income Margin
+- Total Revenue
+- Total Net Income
+- Total Market Capitalization
+- Average P/E Ratio
+- Average Net Income Margin
 
 ---
 
